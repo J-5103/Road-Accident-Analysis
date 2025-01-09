@@ -32,4 +32,5 @@ This project is designed for professionals and enthusiasts who prefer Excel for 
 
 ## DASHBOARD:
 
-![Screenshot (10)](https://github.com/user-attachments/assets/cc7399bc-1fd4-4f23-9428-10164b58599c)
+![Screenshot (10)](https://github.com/user-attachments/assets/33489323-8fdd-49d4-b698-1f3e26397b20)
+
